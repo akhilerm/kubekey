@@ -12,12 +12,12 @@ require (
 	github.com/onsi/ginkgo v1.12.1
 	github.com/onsi/gomega v1.10.1
 	github.com/pkg/errors v0.9.1
-	github.com/pkg/sftp v1.12.0
+	github.com/pkg/sftp v1.13.2
 	github.com/sirupsen/logrus v1.7.0
 	github.com/spf13/cobra v1.1.1
 	github.com/spf13/viper v1.7.1
 	github.com/tmc/scp v0.0.0-20170824174625-f7b48647feef
-	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
+	golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.3.0
 	k8s.io/api v0.18.8
